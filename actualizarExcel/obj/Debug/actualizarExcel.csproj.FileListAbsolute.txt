@@ -1,0 +1,9 @@
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\bin\Debug\actualizarExcel.exe
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\bin\Debug\actualizarExcel.pdb
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\obj\Debug\actualizarExcel.csprojResolveAssemblyReference.cache
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\obj\Debug\actualizarExcel.Form1.resources
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\obj\Debug\actualizarExcel.Properties.Resources.resources
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\obj\Debug\actualizarExcel.csproj.GenerateResource.Cache
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\obj\Debug\actualizarExcel.csproj.CoreCompileInputs.cache
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\obj\Debug\actualizarExcel.exe
+C:\Users\Paola\source\repos\actualizarExcel\actualizarExcel\obj\Debug\actualizarExcel.pdb
